@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Andhika Dian Pratama
+<br/>
+<h1>Andhika</h1>
 
 <!--
 **Dhikaadn/Dhikaadn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
